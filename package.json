@@ -16,10 +16,10 @@
   "author": "@tg09F9",
   "license": "ISC",
   "dependencies": {
+    "@ton/ton": "^13.11.1",
     "fs-extra": "^10.1.0",
     "graphql-request": "^5.0.0",
     "node-fetch": "^3.3.0",
-    "@ton/ton": "^13.11.1",
     "ton-crypto": "^3.2.0",
     "ton-lite-client": "^3.0.0",
     "ton3-contracts": "^0.0.18",
